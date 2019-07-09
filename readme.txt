@@ -1,5 +1,5 @@
-Conway’s Game of Life is a standard example of a cellular automaton. This means that you have an array or matrix of cells. Each 
-turn or generation the value of each cell may change based upon its neighbors. To get more background look online, such as: 
+Conway’s Game of Life is a standard example of a cellular automaton. Given an array or matrix of cells, each 
+turn or generation the value of each cell may change based upon its neighbors state. For more background: 
 http://en.wikipedia.org/wiki/Conway's_Game_of_Life.
 
 Usage:
